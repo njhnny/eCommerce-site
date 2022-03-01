@@ -9,8 +9,6 @@ import './index.css';
 //import App from './App';
 // import reportWebVitals from './reportWebVitals';
 
-var element =<button class="btn btn-danger">HelloWorld</button>;
-
 ReactDOM.render(
   <NavBar />,
   //element,
