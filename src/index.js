@@ -4,13 +4,12 @@ import "jquery";
 import "popper.js";
 import "bootstrap";
 import "bootstrap/dist/css/bootstrap.css";
-import NavBar from "./App";
+import App from "./App";
 import './index.css';
-//import App from './App';
 // import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-  <NavBar />,
+  <App />,
   //element,
   // <React.StrictMode>
 //<App />,
